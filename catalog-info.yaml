@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: skills-introduction-to-github
+  annotations:
+    github.com/project-slug: iamsamsam2020/skills-introduction-to-github
+spec:
+  type: other
+  lifecycle: unknown
+  owner: iamsamsam2020
